@@ -9,7 +9,7 @@ public class Widok {
 
 	/** Generuje menu glowne */
 	public void pokazMenuGlowne() {
-		System.out.println("Witamy w ekspresie do kawy");
+		System.out.println("Ekspres do kawy");
 		odstepy(1);
 		System.out.println("Menu:");
 		odstepy(1);
